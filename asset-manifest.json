@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/contentlisting-app/static/css/main.365ec808.css",
+    "main.js": "/contentlisting-app/static/js/main.ac2933c8.js",
+    "static/js/787.1a3fa785.chunk.js": "/contentlisting-app/static/js/787.1a3fa785.chunk.js",
+    "static/media/TitilliumWeb-Italic.ttf": "/contentlisting-app/static/media/TitilliumWeb-Italic.2531c8e38e14389edc51.ttf",
+    "static/media/TitilliumWeb-SemiBoldItalic.ttf": "/contentlisting-app/static/media/TitilliumWeb-SemiBoldItalic.62b176d8f57148a6986f.ttf",
+    "static/media/TitilliumWeb-LightItalic.ttf": "/contentlisting-app/static/media/TitilliumWeb-LightItalic.84fb8b10e4ec0efb5ec6.ttf",
+    "static/media/TitilliumWeb-BoldItalic.ttf": "/contentlisting-app/static/media/TitilliumWeb-BoldItalic.7fc8c1d9f1c7d72b6b9e.ttf",
+    "static/media/TitilliumWeb-ExtraLightItalic.ttf": "/contentlisting-app/static/media/TitilliumWeb-ExtraLightItalic.94defa8e3254742a50e1.ttf",
+    "static/media/TitilliumWeb-Light.ttf": "/contentlisting-app/static/media/TitilliumWeb-Light.2b8d1521998c2d55bb51.ttf",
+    "static/media/TitilliumWeb-Regular.ttf": "/contentlisting-app/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
+    "static/media/TitilliumWeb-SemiBold.ttf": "/contentlisting-app/static/media/TitilliumWeb-SemiBold.d4d3eeb6e2367e6796c3.ttf",
+    "static/media/TitilliumWeb-ExtraLight.ttf": "/contentlisting-app/static/media/TitilliumWeb-ExtraLight.2d07e99a2247f13f7969.ttf",
+    "static/media/TitilliumWeb-Bold.ttf": "/contentlisting-app/static/media/TitilliumWeb-Bold.a267a8b6b783d7d62039.ttf",
+    "static/media/TitilliumWeb-Black.ttf": "/contentlisting-app/static/media/TitilliumWeb-Black.b06b28a5ea3d6c76e3f2.ttf",
+    "index.html": "/contentlisting-app/index.html",
+    "main.365ec808.css.map": "/contentlisting-app/static/css/main.365ec808.css.map",
+    "main.ac2933c8.js.map": "/contentlisting-app/static/js/main.ac2933c8.js.map",
+    "787.1a3fa785.chunk.js.map": "/contentlisting-app/static/js/787.1a3fa785.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.365ec808.css",
+    "static/js/main.ac2933c8.js"
+  ]
+}
