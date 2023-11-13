@@ -1,0 +1,6 @@
+.GridView {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 2vw;
+  margin: 0px 10px 10px 10px;
+}

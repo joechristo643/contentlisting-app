@@ -1,0 +1,56 @@
+/* global styles */
+body {
+  margin: 0;
+  font-family: TitilliumWebRegular, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:  #171717;
+  color: #ffffff;
+}
+
+/* font imports */
+
+@font-face {
+  font-family: 'TitilliumWebBlack';
+  src: local('TitilliumWeb'), url(./fonts/TitilliumWeb/TitilliumWeb-Black.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TitilliumWebBold';
+  src: local('TitilliumWeb'), url(./fonts/TitilliumWeb/TitilliumWeb-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TitilliumWebBoldItalic';
+  src: local('TitilliumWeb'), url(./fonts/TitilliumWeb/TitilliumWeb-BoldItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TitilliumWebExtraLight';
+  src: local('TitilliumWeb'), url(./fonts/TitilliumWeb/TitilliumWeb-ExtraLight.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TitilliumWebExtraLightItalic';
+  src: local('TitilliumWeb'), url(./fonts/TitilliumWeb/TitilliumWeb-ExtraLightItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TitilliumWebItalic';
+  src: local('TitilliumWeb'), url(./fonts/TitilliumWeb/TitilliumWeb-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TitilliumWebLight';
+  src: local('TitilliumWeb'), url(./fonts/TitilliumWeb/TitilliumWeb-Light.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TitilliumWebLightItalic';
+  src: local('TitilliumWeb'), url(./fonts/TitilliumWeb/TitilliumWeb-LightItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TitilliumWebRegular';
+  src: local('TitilliumWeb'), url(./fonts/TitilliumWeb/TitilliumWeb-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TitilliumWebSemiBold';
+  src: local('TitilliumWeb'), url(./fonts/TitilliumWeb/TitilliumWeb-SemiBold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'TitilliumWebSemiBoldItalic';
+  src: local('TitilliumWeb'), url(./fonts/TitilliumWeb/TitilliumWeb-SemiBoldItalic.ttf) format('truetype');
+}

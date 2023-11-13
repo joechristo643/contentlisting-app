@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.Back-logo {
+  height: 20px;
+  width: 20px;
+}
+
+.Search-logo {
+  height: 25px;
+  width: 25px;
+}
+.App-header {
+  min-height: 22vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 12px;
+  position: sticky;
+  top: 0;
+  background-image: url("https://test.create.diagnal.com/images/nav_bar.png");
+  background-repeat: no-repeat;
+  background-size: 125%;
+}
+
+.App-header-title {
+  text-align: left;
+  flex-basis: 90%;
+  padding-left: 3%;
+  font-size: 24px;
+  font-family: TitilliumWebExtraLight, sans-serif;
+}
+
+.Search-input {
+  background-color: transparent;
+  color: #ffffff;
+  border: none;
+  border-bottom: 1px solid #ffffff;
+  outline: none;
+  font-family: TitilliumWebExtraLight, sans-serif;
+  width: 90%;
+  margin-left: 10px;
+  font-size: 24px;
+}
+.Search-input::placeholder {
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.Search-input:focus-visible {
+  border-bottom: 2px solid #ffffff;
+}

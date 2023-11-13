@@ -1,0 +1,15 @@
+.Card-poster {
+  height: 45vw;
+  width: auto;
+}
+.Card {
+  width: 30vw;
+}
+.Card-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 1;
+  text-wrap: nowrap;
+  text-align: left;
+  font-family: TitilliumWebLight, sans-serif;
+}
